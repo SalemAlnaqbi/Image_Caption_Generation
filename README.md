@@ -38,7 +38,7 @@ The model follows an **Encoder-Decoder** framework:
 - [🔬 BLEU vs Cosine Similarity](#-bleu-vs-cosine-similarity)
 - [👨‍💻 Author](#-author)
 - [🔮 Future Improvements](#-future-improvements)
-- [📚 References](#-references)
+
 
 ## 🎯 Overview
 
